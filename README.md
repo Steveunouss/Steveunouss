@@ -1,6 +1,6 @@
 ### Hi there, I'm Steven 
 
-### I'm a Student and Web Developer!
+### I'm a Web Developer!
 
 - 👀 I’m interested in Full Stack Web Development and Blockchain Development.
 - 🌱 I’m currently learning HTML, CSS, JavaScript, and Reactjs along with Java, Springboot, MySQL, Nodejs, MongoDB.
