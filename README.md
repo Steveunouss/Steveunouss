@@ -1,8 +1,8 @@
 ### Hi there, I'm Steven 
 
-- 👀 I’m interested in Full Stack Web Development, DevOps and Blockchain Development.
-- 🌱 I’m currently working with JavaScript, Python and on IaC with a Terraform focus in AWS.
-- 📫 You can reach me on my email: stevenloue9@gmail.com
+- I’m interested in Full Stack Web Development, DevOps and Blockchain Development.
+- I’m currently working with JavaScript, Python and on IaC with a Terraform focus in AWS.
+- You can reach me on my email: stevenloue9@gmail.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Steveunouss&count_private=true&theme=gotham&layout=compact&custom_title=Top%20Languages&count_private=true)](https://github.com/Steveunouss/github-readme-stats)
 
