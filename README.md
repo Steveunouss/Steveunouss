@@ -5,7 +5,6 @@
 - You can reach me on my email: stevenloue9@gmail.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Steveunouss&count_private=true&theme=gotham&layout=compact&custom_title=Top%20Languages&count_private=true)](https://github.com/Steveunouss/github-readme-stats)
-![stats](https://github-readme-stats.vercel.app/api?username=skydoves&hide=contribs&theme=gotham&show_icons=true&include_all_commits=true&count_private=true)
 
 ### Connect with me
 <a href="https://www.linkedin.com/in/steven-l-4a5303182/" target="_blank">
