@@ -1,6 +1,6 @@
 ### Hi there, I'm Steven 
 
-- I’m interested in Full Stack Web Development, DevOps and Blockchain Development.
+- I’m interested in Backend Development, DevOps and Blockchain Development.
 - I’m currently working with Java, JavaScript, Python and on IaC with a Terraform focus in AWS.
 - You can reach me on my email: stevenloue9@gmail.com
 
