@@ -1,8 +1,7 @@
 ### Hi there, I'm Steven 
 
-- I’m interested in Backend Development, DevOps and Blockchain Development.
-- I’m currently working with Java, JavaScript, Python and on IaC with a Terraform focus in AWS.
-- You can reach me on my email: stevenloue9@gmail.com
+- I’m interested in distributed systems, data structures and microservices architecture.
+- I’m currently working with Vuejs (Typescript), Golang, Python. Using AWS and Terraform to write infrastructure as code.
 
 ### Let's connect
 <a href="https://www.linkedin.com/in/steveunouss/" target="_blank">
